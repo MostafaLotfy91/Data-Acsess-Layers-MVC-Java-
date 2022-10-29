@@ -1,7 +1,7 @@
 # Data-Acsess-Layers-MVC-Java-
 some Modules of a big projects built in (MVC) 
 
-##Stock Market consists of the following tables 
+## Stock Market consists of the following tables 
 ### -Users(User_id , fullname ,user_name , password , email)
 ### -Product (product_id , product name , product_price , product_quantity)
 ### -Product Country (seq_id , product_id_fk,country_name , product module ,qntity )
